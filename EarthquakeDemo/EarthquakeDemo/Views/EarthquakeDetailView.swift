@@ -8,9 +8,6 @@
 import SwiftUI
 import MapKit
 
-import SwiftUI
-import MapKit
-
 struct EarthquakeDetailView: View {
     let earthquake: Feature
     @State private var region: MKCoordinateRegion
